@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victoriapedlar
 - 🎓 Soon to be grad with a Master's of Science in Advanced Analytics
 - 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning about Machine Learning, Optimisation & Simulation, Databases, Python, Multivariate Statistics and Advanced Regression
+- 🌱 I’m currently learning about Machine Learning, Databases, Python, Multivariate Statistics and Advanced Regression
 - 🤿 In my free time, you can find me outdoors either hiking or scuba diving
 - 📫 How to reach me: vpedlar@gmail.com
