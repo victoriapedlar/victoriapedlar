@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @victoriapedlar a Junior Machine Learning Engineer
+- 👋 Hi, I’m @victoriapedlar a Machine Learning Engineer
 - 🎓 Soon to be grad with a Master's of Science in Advanced Analytics
 - 👀 I’m interested in Natural Language Processing
 - 🤿 In my free time, you can find me outdoors either hiking or scuba diving
